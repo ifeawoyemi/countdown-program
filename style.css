@@ -35,3 +35,9 @@ body{
   border-radius: 5px;
 }
 
+button:hover{
+  background-color: #101331;
+  text-decoration: none;
+  color: red;
+  transition: 0.8s ease-out;
+}
